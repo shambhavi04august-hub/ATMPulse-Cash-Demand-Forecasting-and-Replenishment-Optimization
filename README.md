@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![ATMPulse Dashboard](github post.png)
+![ATMPulse Dashboard](githubpost.png)
 
 **Tools Used:** SQL • Excel • Power BI
 

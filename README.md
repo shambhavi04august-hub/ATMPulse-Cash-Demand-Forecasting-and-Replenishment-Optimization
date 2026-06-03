@@ -234,8 +234,8 @@ Data Analyst | SQL | Excel | Power BI
 
 ### Connect With Me
 
-- LinkedIn: Add Your LinkedIn Profile
-- GitHub: Add Your GitHub Profile
+- LinkedIn: https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
+- GitHub: https://github.com/shambhavi04august-hub
 
 ## License
 

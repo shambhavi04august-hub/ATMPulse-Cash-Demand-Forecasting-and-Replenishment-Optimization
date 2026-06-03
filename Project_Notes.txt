@@ -1,0 +1,13 @@
+
+Pages:
+1. Executive Summary
+2. Demand Analysis
+3. Replenishment Optimization
+4. Forecasting
+
+KPIs:
+Total Withdrawals
+Total Transactions
+Cash Utilization %
+Average Cash Remaining
+High Risk ATMs
